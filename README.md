@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AI%20Engineer%20and%20Systems%20Builder%20🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Building%20AI%20Solutions%20🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </div>
 
 <div align="center">
@@ -139,12 +139,6 @@ specialty: End-to-end automation workflows
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daisuke-ai&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://github.com/daisuke-ai/daisuke-ai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
